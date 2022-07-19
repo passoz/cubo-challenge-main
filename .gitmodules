@@ -1,0 +1,8 @@
+[submodule "cubo-challenge-frontend"]
+	path = cubo-challenge-frontend
+	url = git@github.com:passoz/cubo-challenge-frontend
+  ignore = dirty
+[submodule "cubo-challenge-backend"]
+	path = cubo-challenge-backend
+  url = git@github.com:passoz/cubo-challenge-backend
+  ignore = dirty
